@@ -1,0 +1,28 @@
+@charset "utf-8";
+body {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+    height: 100%;
+
+}
+.head {
+    color: #f9f9f9;
+    font-size: medium;
+    background-color: #2C2684;
+
+}
+
+.h {
+    height: 10rem;
+}
+.tab {
+
+    box-shadow: 0 0 5px  #333;
+}
+.form-signin {
+
+    padding: 15px;
+    margin: 0.2rem;
+}
