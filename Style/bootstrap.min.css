@@ -2720,6 +2720,7 @@ select[multiple].input-sm {
     height: auto;
 }
 .form-group-sm .form-control {
+
     height: 30px;
     padding: 5px 10px;
     font-size: 12px;
